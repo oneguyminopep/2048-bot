@@ -5,7 +5,7 @@
 
     // Search constants.
     var SEARCH_DEPTH = 4;
-    var SEARCH_TIME = 50;
+    var SEARCH_TIME = 250;
     var RETRY_TIME = 1000;
     var ACCEPT_DEFEAT_VALUE = -999999;
 
